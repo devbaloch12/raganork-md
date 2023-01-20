@@ -76,7 +76,7 @@
        "SESSION": {
             "description": "Your MD session",
             "required": true,
-	    "value":"Raganork~4fb4066aae7b62a617169f6fae03572e:427a71724278536f35716b3d"
+	    "value":"Raganork~a9a6a4cf3c8603e422fa1589cd38ab9d:48554251666443426c616b3d"
              
         }
     },
